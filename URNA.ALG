@@ -53,7 +53,7 @@ Inicio
    escreval("0-Branco", contBranco)
    escreval("-1 - Votos Nulos", contNulo)
    escreval("")
-   escreval("iniciando a elei??o.")
+   escreval("Iniciando a eleição.")
 
 
 
